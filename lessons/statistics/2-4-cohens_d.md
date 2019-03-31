@@ -19,4 +19,4 @@ CohenEffectSize(others.totalwgt_lb, firsts.totalwgt_lb)
 
 gave us an ouput of: 0.088672927072602. 
 
-The effect size is small because it is not >= 0.8. 
+The effect size is small.   
