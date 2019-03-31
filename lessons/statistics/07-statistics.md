@@ -105,8 +105,7 @@ P( I | T<sub>b</sub> ) = 5 / 11
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+>> Both Frequentist and Bayesian statistics are inferential statistics, in which take random samples of data from populations to make inferences about those populations. How probability is interpreted differs between the two. Frequentist relate probability to long-term frequencies of repeatable, random events, and Bayesians relate probability to our own certainty/uncertainty of events. Frequentists do not assign prior probabilities for unknown parameters and use the maximum likelihood estimate of unknown parameters to predict new data points. Bayesians assign prior probabilities of unknown parameters and updates those probabilities after obtaining new data. 
 ---
 
 ## <a name="section-e"></a>5.  Optional Exercises
